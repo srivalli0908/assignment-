@@ -1,0 +1,12 @@
+td,tr,thead{
+    border: none;
+}
+.card-body,.card-text {
+    margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+.center { 
+    text-align:center; 
+    width:100%; 
+} 
